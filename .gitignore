@@ -2,6 +2,7 @@
 .project
 .settings/
 target/
+*.iml
 
 # Compiled class file
 *.class
